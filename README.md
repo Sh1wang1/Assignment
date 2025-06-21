@@ -5,10 +5,13 @@ Live link:https://assignment-fetl42jhm-sh1wang1s-projects.vercel.app/
 🚀 How to Run the Project
 1)Navigate to the frontend folder:
   cd frontend
+  
 2)Install dependencies:  
    npm start
+   
 3)Start the development server:
    npm run dev
+   
 4)Open your browser and visit:
    http://localhost:3000/ — Home page
    http://localhost:3000/products — Product listing  
